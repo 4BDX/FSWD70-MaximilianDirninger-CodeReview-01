@@ -1,0 +1,133 @@
+
+
+#header {
+	font-weight: bold;
+	font-size: 30px;
+	background-color: #EDEDED;
+	height: 170px;
+	/*line-height: 300px; */
+	vertical-align: middle;
+	width: 100%;
+}
+
+
+/*
+img { vertical-align: : middle;
+
+	}
+*/
+	h2 span 
+{
+    display: block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+	font-size: 170%;
+}
+
+#navigation {
+	float:left;
+	width: 100%;
+	margin-top: 0px;
+	padding: 7px;
+	overflow: hidden;
+ 	position: sticky;
+
+	background-color: #653C3D;
+	text-decoration: none
+}
+
+#navigation li {
+
+	list-style: none;
+	display: inline;
+	margin: 0;
+	margin-left: 2px;
+	padding: 0em 1em;
+}
+
+	
+ .Haupttext	 {
+ 	text-align: center;
+ 	padding: 100px,30px,10px,30px;
+ 	font-size: 500%;
+
+ }
+
+#LatestBlogPost{
+	background-color: #988484;
+	color: white;
+ 	font-size: 35px;
+ 	height: 70px;
+ 	line-height: 70px;
+ 	vertical-align: : middle;
+ 	width: 100%;
+ 	padding-left: 35px;
+
+ }
+
+#Blog1 {
+	float: left;
+	width: 40%;
+	font-weight: bold;
+	font-size: 30px;
+	vertical-align: text-bottom;
+}
+
+
+
+#Blog2 {
+	float: right;
+	width: 40%;
+	font-weight: bold;
+	font-size: 30px;
+	vertical-align: text-bottom;
+}
+
+#Blog3 {
+	float: left;
+	width: 40%;
+	font-weight: bold;
+	font-size: 30px;
+	vertical-align: text-bottom;
+	clear: left;
+	padding-top: 50px;
+	padding-bottom: 130px;
+}
+
+
+
+#Blog4 {
+	float: right;
+	width: 40%;
+	font-weight: bold;
+	font-size: 30px;
+	vertical-align: text-bottom;
+	padding-top: 50px;
+	padding-bottom: 130px;
+}
+		
+
+#SeparationLine {
+	height: 10px;
+	background-color: #988484;
+	
+	 bottom: 0;
+  
+	width: 100%;
+
+}
+
+.footer {
+	position: relative;
+	text-align: center;
+	height: auto;
+	clear: both;
+	bottom: 0px;
+	width: 100%;
+	left: 0;
+	font-size: 14px;
+}
