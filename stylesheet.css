@@ -1,5 +1,5 @@
 
-
+/* vertically align the text */
 #header {
 	font-weight: bold;
 	font-size: 30px;
@@ -11,13 +11,9 @@
 }
 
 
-/*
-img { vertical-align: : middle;
 
-	}
-*/
-	h2 span 
-{
+
+h2 span {
     display: block;
 }
 
@@ -110,17 +106,15 @@ a {
 	padding-bottom: 130px;
 }
 		
-
+/*	figure out why it's not at the bottom	
 #SeparationLine {
 	height: 10px;
 	background-color: #988484;
-	
-	 bottom: 0;
-  
+	bottom: 0;
 	width: 100%;
 
 }
-
+*/
 .footer {
 	position: relative;
 	text-align: center;
