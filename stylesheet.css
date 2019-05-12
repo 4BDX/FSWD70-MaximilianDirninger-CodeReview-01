@@ -14,7 +14,9 @@ font-family: 'Do Hyeon', sans-serif;}
 	width: 100%;
 }
 
-
+div table td {			/* About me Table */
+  text-align: center;
+}
 
 
 h2 span {
