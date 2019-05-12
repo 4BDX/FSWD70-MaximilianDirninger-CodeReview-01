@@ -3,16 +3,17 @@
 * {
   
 font-family: 'Do Hyeon', sans-serif;}
-/* vertically align the text */
-#header {
-	font-weight: bold;
+
+
+#header { 
+font-weight: bold;
 	font-size: 30px;
 	background-color: #EDEDED;
 	height: 170px;
-	/*line-height: 300px; */
-	vertical-align: middle;
 	width: 100%;
-}
+} 
+.HeaderLogo { vertical-align: middle;
+} 
 
 div table td {			/* About me Table */
   text-align: center;
@@ -123,15 +124,7 @@ a {
 }
 
 		
-/*	figure out why it's not at the bottom	
-#SeparationLine {
-	height: 10px;
-	background-color: #988484;
-	bottom: 0;
-	width: 100%;
 
-}
-*/
 .footer {
 	position: relative;
 	text-align: center;
